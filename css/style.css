@@ -1,0 +1,11 @@
+.captcha {
+  width:200px;
+  height:115px;
+  text-align:center;
+  line-height:115px;
+  background-color:#F0F0F0;
+  font-family:arial;
+  font-size:12px;
+  border-radius:8px;
+  
+}

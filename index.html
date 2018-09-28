@@ -1,0 +1,38 @@
+
+<!--
+  Desenvolvido por:
+      Handerson Pinheiro & Marcio Kreusch
+
+      Descrição
+
+      Solução de captcha para segurança e validação de formulários.
+
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+
+    <title>Captcha HANK</title>
+
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/captcha.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+  <body>
+
+    <div id="aqui" class="captcha">
+      Loading captcha...
+    </div>
+    <br>
+    Digite a palavra que aparece acima.
+    <br>
+
+    <input type="text" name="validCaptcha" id="validCaptcha"><br/><br/>
+    <button type="button" onclick="Valida_captcha();">Enviar</button>
+
+
+
+  </body>
+</html>
