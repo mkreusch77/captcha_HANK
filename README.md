@@ -10,7 +10,7 @@ Você pode criar seus próprios (.gifs) também. Utilizamos um hash para nomear 
 
 2 - Um script de sua preferência como Java, Python, PHP fica no back-end selecionando de forma randômica as imagens que aparecerão na interface. Como exemplo para compartilhar, fizemos em PHP.
 
-3 - Um javascript no index.html chama o serviço de geração randômica das imagens (.gif) no back-end, que são apresentadas em uma <div> de forma aleatória na interface. 
+3 - Um javascript no index.html chama o serviço de geração randômica das imagens (.gif) no back-end, que são apresentadas em uma DIV de forma aleatória na interface. 
 
 Fizemos testes com log de acesso em um site que estava recebendo spam em um formulário de contato.
 
