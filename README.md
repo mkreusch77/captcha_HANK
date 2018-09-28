@@ -21,6 +21,6 @@ Manteremos sempre o projeto evoluindo com segurança e simplicidade.
 
 Desenvolvedores.
 
-Marcio Kreusch
+Marcio Kreusch -> https://github.com/mkreusch77
 
-Handerson Pinheiro
+Handerson Pinheiro -> https://github.com/plata4m
