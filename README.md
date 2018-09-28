@@ -18,3 +18,7 @@ Após colocar o captcha em um site que estava recebendo muitos spans em seu form
 
 Faça bom proveito. 
 Manteremos sempre o projeto evoluindo com segurança e simplicidade. 
+
+Desenvolvedores.
+Marcio Kreusch
+Handerson Pinheiro
