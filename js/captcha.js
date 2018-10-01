@@ -1,6 +1,6 @@
 
   var ret = "";
-    $.post("http://127.0.0.1/Captcha_GitHub/randomCaptcha.php", function(data) {
+    $.post("url_do_projeto/randomCaptcha.php", function(data) {
     var obj = JSON.parse(data);
     ret = obj.nome;
     $("#aqui").html("");
